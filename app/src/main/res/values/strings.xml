@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnlineStore</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_catalog">Каталог</string>
+    <string name="menu_cart">Корзина</string>
+    <string name="menu_discount">Акции</string>
+    <string name="menu_account">Профиль</string>
+
+    <string name="login">Login</string>
+</resources>
