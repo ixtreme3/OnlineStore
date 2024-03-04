@@ -6,5 +6,13 @@
     <string name="menu_discount">Акции</string>
     <string name="menu_account">Профиль</string>
 
-    <string name="login">Login</string>
+    <string name="login_title">Вход</string>
+    <string name="bottom_text">Нажмая кнопку \"Войти\", Вы принимаете условия программы лояльности</string>
+    <string name="login_button">Войти</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="phone_number">Номер телефона</string>
+    <string name="clear_first_name_button">Clear first name button</string>
+    <string name="clear_last_name_button">Clear last name button</string>
+    <string name="clear_phone_number_button">Clear phone number button</string>
 </resources>
